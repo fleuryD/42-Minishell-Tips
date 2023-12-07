@@ -10,6 +10,14 @@ Quelques tips pour le projet minishell de l'ecole 42
 
 ## Exemple de partage des taches:
 
+Partagez vous le travail, en definissant exactement ce que chaque personne doit faire.
+
+- Qu'est ce aue je recois en entree ?
+- Qu'est ce que je dois renvoyer ?
+- Qu'est ce que je dois faire avec les erreurs ?
+
+Vous pourrez ainsi travailler en parallele, sans attendre que les autres aient fini.
+
 ### Creer les fonctions de la libft_extra
 
 ### Copier env dans data.env
@@ -38,7 +46,7 @@ Quelques tips pour le projet minishell de l'ecole 42
 - Pas besoin d'attendre que le parsing soit fait (utilisez une "fausse" liste de tokens ecrite a la main)
 - Reutilisez les fonctions que vous avez faites pour les buitins export et unset !!!
 
-### Buitins (cd, echo, pwd, export, unset, env, exit) (plusieurs personnes)
+### Buitins (cd, echo, pwd, export, unset, env, exit)
 
 ```
 - arg: A definir en groupe (voir fichier buitins)
